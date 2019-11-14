@@ -22,7 +22,7 @@ def self.print_all
    end
 end
 
-def save 
-  @@all<<self 
+def save
+  @@all<<self
 
 end
